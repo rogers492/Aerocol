@@ -26,6 +26,12 @@ Documentation is [here](https://docs.coronalabs.com/api/event/colorSample/index.
 
 ### User Story #4 - Calibration
 
+### User Story #5 - Guidance
+- Show info on how to take a good Sample, eg: angle, position of sun etc
+
+### User Story #6 - Targeting
+- Indicate when camera aspect is ideal for a good Sample
+
 ## Product Backlog
 ### Sprint #1
 [ ] In the app, the User selects the photo from the phone gallery. The app displays it. **DE-RISK EARLY**
