@@ -8,7 +8,7 @@ Documentation is [here](https://docs.coronalabs.com/api/event/colorSample/index.
 - #?: The User takes a photo of the sky with their phone. So we use [select photo] (https://docs.coronalabs.com/api/library/media/selectPhoto.html)
 ### OR
 - #1: The User takes a photo of the sky with their phone. So we use [capture photo] (https://docs.coronalabs.com/api/library/media/capturePhoto.html)
-- #2: In the app, the User selects the photo from the phone gallery. The app displays it. **DE-RISK EARLY**
+- #2: The app displays the captured photo
 - #3: The User taps the screen at the point they want the app to sample.  It is up to the user to tap on SKY rather than CLOUD.
 - #4: The app uses colorSample to retrieve the RGB value at the x,y tapped by the User.
 - #5: App does simple quality checks (is colour sample somewhere between blue and white?) and adds quality flag
